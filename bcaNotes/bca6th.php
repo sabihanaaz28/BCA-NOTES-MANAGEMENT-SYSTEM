@@ -133,7 +133,7 @@
                     </ul>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                    <p><a href="" class="clickpdf1">5 in 1(PDF)</a></p>
                 </div>
             </div>
         </div>
@@ -154,7 +154,7 @@
                     </ul>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                    <p><a href="" class="clickpdf1">5 in 1(PDF)</a></p>
                 </div>
             </div>
         </div>
@@ -166,7 +166,8 @@
                     <b class="subBold">Download Project Codes:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                   <p><a href="" class="clickpdf1">Download PPT File</a></p>
+                    <p><a href="" class="secondPara" style="background-color: rgb(232, 68, 68); margin-top:2rem; color:white;">Download Code</a></p>
                 </div>
             </div>
         </div>

@@ -87,15 +87,15 @@
                     </ul>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                    <p><a href="" class="clickpdf1">5 in 1(PDF)</a></p>
                 </div>
             </div>
         </div>
         <div class="contentSub">
             <div class="subject">
                 <div class="subCont">
-                    <h1 class=><i class="fa-sharp-duotone fa-solid fa-book-open-reader"></i>  CT</h1>
-                    <p class="subPara">Computer Network(CT)</p>
+                    <h1 class=><i class="fa-sharp-duotone fa-solid fa-book-open-reader"></i>  CN</h1>
+                    <p class="subPara">Computer Network(CN)</p>
                     <b class="subBold">Download Unit Wise Notes:-</b>
                 </div>
                 <div class="subunit">
@@ -108,7 +108,7 @@
                     </ul>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                    <p><a href="" class="clickpdf1">5 in 1(PDF)</a></p>
                 </div>
             </div>
         </div>
@@ -129,7 +129,7 @@
                     </ul>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                    <p><a href="" class="clickpdf1">5 in 1(PDF)</a></p>
                 </div>
             </div>
         </div>
@@ -150,7 +150,7 @@
                     </ul>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                    <p><a href="" class="clickpdf1">5 in 1(PDF)</a></p>
                 </div>
             </div>
         </div>
@@ -162,7 +162,8 @@
                     <b class="subBold">Download Project Code:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">6 in 1(PDF)</a></p>
+                    <p><a href="../pdf/MinorProject.pdf" class="clickpdf1">Download PPT File</a></p>
+                    <p><a href="https://github.com/sabihanaaz28/BCA-NOTES-MANAGEMENT-SYSTEM.git" class="secondPara" style="background-color: rgb(232, 68, 68); margin-top:2rem; color:white;">Download Code</a></p>
                 </div>
             </div>
         </div>
