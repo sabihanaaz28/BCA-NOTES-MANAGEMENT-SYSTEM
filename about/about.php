@@ -54,24 +54,20 @@
                 <ul>
                     <li><a href="../index.php">Home</a></li>
                     &ensp;<i class="fa-solid fa-arrow-right" style="color: white;"></i>&ensp;
-                    <li><a href="career.php"> Career</a></li>
+                    <li><a href="about.php"> About</a></li>
                 </ul>
             </div>
         </section>
     </header>  
      <!-- create a section  -->
-    <section class="area">
-        <div class="container-all">
-            <div class="cont-img">
-                <img src="../images/ai.jpg" alt="ai">
-            </div>
-            <div class="cont-head">
+    <section class="contentNotesSection">
+        <div class="contentNotes">
+            <div class="contHead">
                 <h1>SY Dream Study</h1>
-                <p style="color: #3c3131ee;">Why our website is the best?</p>
-                <p>We have created this website to help others for free. We made this website as simple as possible, that anyone can run smoothly on their phone and computer. We have simple PDF and Notes of the BCA course subject with programs of 'C' Language, C++ ,Python,PHP,and JAVA, which will help in quick reading and memorization. If you having trouble understanding a topic, then you have come at right place. We will help eliminate all your problems.</p>
-            <div class="about">
-                <a href="career.php">Career</a>
             </div>
+            <h3 style="color: #3c3131ee;">Why our website is the best?</h3>
+            <div class="contPara">
+                <p>We have created SYDreamStudy (this website) to help others for free. We made this website as simple as possible, that anyone can run smoothly on their phone and computer. We have simple PDF's and Notes of the Course BCA, which will help you in quick reading and memorization. If you have any trouble in understanding any topic, then you came at right place. We will help you to eliminate all your problems.</p>
             </div>
         </div>
     </section>
@@ -81,12 +77,12 @@
             <h2>About Us</h2>
             <p>Welcome to our website (SY Dream Study), where you'll find a Study of Material in the form of <b style="color: rgb(103, 207, 172); text-decoration: underline;"> PDF's, Programs</b > and <b style="color: rgb(103, 207, 172); text-decoration: underline;"> Hand Written Notes.</b></p>
             <p>All BCA Notes are semester wise:
-                <a href="bca1st.html">BCA Sem 1st</a>,
-                <a href="bca2nd.html">BCA Sem 2nd</a>,
-                <a href="bca3rd.html">BCA Sem 3rd</a>,
-                <a href="bca4th.html">BCA Sem 4th</a>,
-                <a href="bca5th.html">BCA Sem 5th</a>,
-                <a href="bca6th.html">BCA Sem 6th</a>
+                <a href="../bcaNotes/bca1st.php">BCA Sem 1st</a>,
+                <a href="../bcaNotes/bca2nd.php">BCA Sem 2nd</a>,
+                <a href="../bcaNotes/bca3rd.php">BCA Sem 3rd</a>,
+                <a href="../bcaNotes/bca4th.php">BCA Sem 4th</a>,
+                <a href="../bcaNotes/bca5th.php">BCA Sem 5th</a>,
+                <a href="../bcaNotes/bca6th.php">BCA Sem 6th</a>
             </p>
             <p>SY Dream Study offers unprecedented study material. Our mission is to help students take advantage of those study material by providing them with six key tools:</p>
             <ul>
