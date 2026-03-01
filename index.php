@@ -76,6 +76,9 @@ mysqli_close($conn);
               <a href="about/about.php" class="nav-link active navLink">About</a>
             </li>
             <li class="nav-item">
+              <a href="syllabus/bcaSyllabus.php" class="nav-link active navLink">Syllabus</a>
+            </li>
+            <li class="nav-item">
               <a href="feedback.php" class="nav-link active navLink">Feedback</a>
             </li>
             <li class="nav-item">
