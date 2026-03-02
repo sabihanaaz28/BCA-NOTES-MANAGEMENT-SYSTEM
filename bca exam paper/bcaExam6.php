@@ -85,7 +85,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="../pdf/CNS.pdf" class="clickpdf1">Download</a></p>
+                    <p><a href="../pdf/CNS2.pdf" class="clickpdf1">Download</a></p>
                 </div>
             </div>
         </div>
