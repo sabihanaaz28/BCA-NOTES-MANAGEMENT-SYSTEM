@@ -11,9 +11,6 @@
     background: linear-gradient(to right, #6a11cb, #2575fc) !important;
 }
 
-.navbarCollapse {
-    background: linear-gradient(to right, #6a11cb, #2575fc);
-}
 
 .logo img{
     width: 17vmax;
@@ -210,6 +207,7 @@ footer{
     }
 
     .navbarCollapse {
+      background: linear-gradient(to right, #6a11cb, #2575fc) !important;
     position: absolute;
     top: 100%;
     left: 0;
